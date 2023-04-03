@@ -9,7 +9,7 @@ public class NumberOfArguments {
       ) {
     int speed = numberOfPaws * hairDensity;
     if (isWet) {
-      speed -= 100000000000;
+      speed -= 100;
     }
     if (hasEaten) {
       speed -= 10;
