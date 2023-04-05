@@ -6,7 +6,6 @@ public class NullPointerDereference {
     String trimmedAnimal = trim(animal);
 
     int legs;
-    int arms;
     
     if ("dog".equals(trimmedAnimal)) {
       legs = 4;
